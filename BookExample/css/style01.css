@@ -1,0 +1,100 @@
+/* CSS Document */
+
+@charset "utf-8";
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: "맑은 고딕";
+	color: #222328;
+}
+
+body{
+	width: 1000px;
+	background-color: #fff;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+	display: block;
+}
+
+header{
+	float: left;
+	width: 200px;
+	height: 650px;
+}
+
+.logo{
+	float: left;
+	height: 40px;
+	width: 200px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.menu{
+	float: left;
+}
+
+.imgSlide{
+	float: right;
+	height: 350px;
+	width: 800px;
+	background-color: #ccc;
+}
+
+.contents{
+	float: right;
+	height: 200px;
+	width: 800px;
+}
+
+.notice{
+	float: left;
+	height: 200px;
+	width: 300px;
+}
+
+.gallery{
+	float: left;
+	height: 200px;
+	width: 300px;
+}
+
+.shortcut{
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+
+footer{
+	float: right;
+}
+
+footer .bottom{
+	float: left;
+	height: 100px;
+	width: 800px;
+}
+
+.copyright{
+	float: left;
+	height: 100px;
+	widows: 200px;
+}
+
+.sns{
+	float: left;
+	height: 50px;
+	width: 200px;
+}
+
+.familySite{
+	float: right;
+	
+}
+
+
